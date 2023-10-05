@@ -33,18 +33,19 @@ header{
 	background: transparent;
 	padding: 30px 18%;
 	transition: ease .40s;
+	color: #221314;
 }
 .logo{
 	font-size: 35px;
 	font-weight: 600;
 	letter-spacing: 1px;
-	color: var(--bg-color);
+	color: black;
 }
 .navbar{
 	display: flex;
 }
 .navbar a{
-	color: var(--bg-color);
+	color: black;
 	font-size: var(--p-font);
 	font-weight: 500;
 	padding: 10px 22px;
